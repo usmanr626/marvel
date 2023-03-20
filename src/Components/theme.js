@@ -1,3 +1,3 @@
 export const COLORS = {
-  black: 'grey',
+  black: 'black',
 };
